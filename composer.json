@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.0",
     	"krupni/lightopenid": "1.0.0",
-    	"sizeg/itmages-yii-eoauth": "dev-master"
+    	"krupni/yii-eoauth":"1.0.0"
     },
     "autoload": {
         "classmap": [
